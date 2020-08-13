@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cuadro{
+    width: 1200px;
+    height: 490px;
+    position: relative;
+    background-color: #FE941A;
+    margin: auto;
+    margin-top: 125px;
+    font-family: Agency FB;
+    font-size: 24.8px;
+    color: #ffffff;
+        
+}
+.borde, td{
+    border: 1.5px solid #ffffff;
+    padding: 15px;
+    
+}
